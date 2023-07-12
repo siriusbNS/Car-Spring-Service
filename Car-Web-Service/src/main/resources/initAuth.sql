@@ -1,0 +1,1 @@
+insert into public.person (username, birth_date, password) values ('vlad','2002-10-10','vladLOL');

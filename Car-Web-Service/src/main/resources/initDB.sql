@@ -1,0 +1,1 @@
+insert into public.carbrand (brandname, foundingdate) VALUES ('lol','10/10/2000')
